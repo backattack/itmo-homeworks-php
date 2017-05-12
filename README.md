@@ -1,2 +1,1 @@
-# itmo-homeworks-php
-Home work
+# Работы по курсу PHP
